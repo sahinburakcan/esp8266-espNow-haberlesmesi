@@ -1,0 +1,4 @@
+kod bir akıllı sokak lambası için tasarlanmıştır.
+Esp32 - Esp8266 arasında gerçekleşecek olan EspNow haberleşmesiiçin slave modül (esp8266) içindir. 
+haberleşme içerisinde mac adresleri kullanılacağı için öncelikle mac adreslerini öğrenmelisiniz. 
+Sistem içerisinde transistör sürmesinden yararlanarak led kullanınız.Bunun sebebi esp8266 nin çıkış gücü ledleri istediğiniz parlaklıkta yakmaya yetmeyecektir.
